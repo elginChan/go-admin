@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-    遗失的Golang语言编写的数据可视化与管理平台构建框架
+    Go语言编写的数据可视化与管理平台构建框架
 </p>
 <p align="center">
 <a href="https://api.travis-ci.org/chenhg5/go-admin"><img alt="Go Report Card" src="https://api.travis-ci.org/chenhg5/go-admin.svg?branch=master"></a>
